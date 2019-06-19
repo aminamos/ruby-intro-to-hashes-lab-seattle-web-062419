@@ -2,7 +2,7 @@ def new_hash
   new_hash = {}
 end
 
-def actor(name,string)
+def actor
   actor = {name: "Dwayne The Rock Johnson"}
   #actor = {:name => "Dwayne"
 end
